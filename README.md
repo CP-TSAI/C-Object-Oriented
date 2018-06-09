@@ -6,11 +6,12 @@
 ## 15.2 定義 Based Class 和 Derived Class
 
 - 存取控制 (Access Control)和繼承
-ˋˋˋ
+
+```
 * Public: 大家都可以使用
 * Private: 只有該類別內的成員可以使用
 * Protected: 子類別可以回去使用父類別的成員
-ˋˋˋ
+```
 
 ## Call by Value vs Call by Reference
 
