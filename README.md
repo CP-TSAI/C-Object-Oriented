@@ -1,4 +1,4 @@
-# C++-Object-Oriented
+# Object-Oriented Programming (Note from C++ Primer)
 
 > **3 Concept**: Data Abstraction, Inhertance, Dynamic Binding
 
@@ -6,6 +6,13 @@
 
 
 ## Virtual Function
+
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
 
 
